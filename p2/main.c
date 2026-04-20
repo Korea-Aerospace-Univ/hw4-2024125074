@@ -2,8 +2,8 @@
 
 int main(void)
 {   
-    int n=0, countE=0,countN=0,countEMax=0,countNmax=0; //n:입력받을 문자열의 수
-    char a[101];
+    int n=0, countE=0,countN=0,countEMax=0,countNmax=0; //n:입력받을 문자열의 수,
+    char a[101]; // 배열 쓰지 말고 하나하나 다 입력 받
     
     
     scanf("%d",&n);
